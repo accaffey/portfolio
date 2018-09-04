@@ -32,8 +32,8 @@ body{
 }
 
 @media(min-width: 1440px){
-	.contentDiv{
-		margin-top: 100px;
+	#boxes{
+		margin-top: 200px;
 	}
 }
 
