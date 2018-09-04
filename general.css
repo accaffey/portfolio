@@ -6,6 +6,7 @@ body{
 /*logo*/
 .topcontainer{
 	height: 900px;
+	margin-bottom: 300px;
 }
 
 .logorow{
