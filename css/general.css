@@ -5,7 +5,13 @@ body{
 
 /*logo*/
 .topcontainer{
-	height: 880px;
+	height: 680px;
+}
+
+@media(min-width: 1440px){
+	.topcontainer{
+		height:880px;
+	}
 }
 
 .logorow{
