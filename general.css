@@ -33,7 +33,7 @@ body{
 
 @media(min-width: 1440px){
 	.contentDiv{
-		padding-top: 100px;
+		margin-top: 100px;
 	}
 }
 
