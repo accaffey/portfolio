@@ -32,8 +32,8 @@ body{
 }
 
 @media(min-width: 1440px){
-	.topcontainer{
-		height: 900px;
+	.contentDiv{
+		padding-top: 100px;
 	}
 }
 
